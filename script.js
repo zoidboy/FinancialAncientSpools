@@ -12,4 +12,4 @@ function setBackgroundImage(imageUrl) {
 }
 
 // Example - Replace with your image URL
-setBackgroundImage('https://www.example.com/your-background-image.jpg');
+setBackgroundImage('https://steamuserimages-a.akamaihd.net/ugc/868495283639812974/BFA920A6E7A1B666A191238C147582BB2FCCB3B3/');
