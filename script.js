@@ -12,4 +12,4 @@ function setBackgroundImage(imageUrl) {
 }
 
 // Example - Replace with your image URL
-setBackgroundImage('https://images3.alphacoders.com/732/thumb-1920-732326.png');
+setBackgroundImage('https://images3.alphacoders.com/876/thumb-1920-876762.jpg');
